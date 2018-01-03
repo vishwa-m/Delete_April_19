@@ -20,5 +20,10 @@ pipeline {
         echo 'Hello2'
       }
     }
+    stage('') {
+      steps {
+        junit 'hello'
+      }
+    }
   }
 }
