@@ -4,3 +4,5 @@ updated in branch2
 Added a line
 
 --branch2
+
+changes added for git reset soft
